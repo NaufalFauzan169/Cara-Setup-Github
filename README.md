@@ -1,4 +1,4 @@
- <!-- dibuat oleh ai -->
+ # dibuat oleh ai #
 ## CARA SETUP GITHUB ##
 Cara Membuat Local Repository
 1. Buka terminal atau command prompt.
@@ -37,3 +37,23 @@ Cara Membuat Local Repository
     ```
 13. Untuk melihat status repository, gunakan perintah berikut:
     ```bash
+
+    Cara Setup SSH Key di GitHub
+    git status
+    ```
+14. Untuk melihat riwayat commit, gunakan perintah berikut:
+    ```bash
+    git log
+    ```
+15. Untuk menghapus file dari staging area, gunakan perintah berikut:
+    ```bash
+    git reset HEAD nama_file
+    ```
+16. Untuk menghapus file dari repository, gunakan perintah berikut:
+    ```bash
+    git rm nama_file
+    ```
+17. Untuk mengubah pesan commit terakhir, gunakan perintah berikut:
+    ```bash
+    git commit --amend -m "Pesan commit baru"
+    ```
