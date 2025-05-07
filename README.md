@@ -1,4 +1,4 @@
- # dibuat oleh ai #
+  dibuat oleh ai 100%
 ## CARA SETUP GITHUB ##
 Cara Membuat Local Repository
 1. Buka terminal atau command prompt.
